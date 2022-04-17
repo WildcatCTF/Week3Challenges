@@ -1,0 +1,5 @@
+Remember you can work together on Discord!
+
+flag</etc>
+
+challenge 3: Send me the first line of the ipsec.secrets file

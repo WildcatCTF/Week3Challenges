@@ -1,0 +1,3 @@
+This next flag is not in the usual "flag<code>" format. (That is not a flag)
+
+Instead I want you to find the first line of the sudoers README and send it to me. 
