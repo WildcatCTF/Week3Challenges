@@ -4,4 +4,4 @@ unzip
 
 So it would look like:
 
-unzip file_name.zip
+unzip -P PasswOrd filename.zip
